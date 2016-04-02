@@ -24,9 +24,6 @@ Deadlines and code quality affect your XP.
 ## XP Rules
 There's a certain set of rules around XP that changes with time. Current rules are as follows:
   - Lowest XP that can be assigned initially is 50 and that is given to everyone who registers with us to learn. 
-  - Deadlines on milestones affect your XP:
-    - Hitting deadline gives you 4 point.
-    - Missing deadline gives you -4 point.
   - Code quality affects your XP:
     - Student and Apprentice roles:
       - Score 8-10 gives you 3 points
