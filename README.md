@@ -6,4 +6,4 @@ what you're looking for here, or if you saw an issue with it, please go [here](w
   - [Onboarding](onboarding.md)
   - [XP explained](xp-explained.md)
   - [Roles explained](roles-explained.md)
-  - [Processess](processess.md)
+  - [Processes](processes.md)
