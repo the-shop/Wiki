@@ -21,7 +21,7 @@ There are 5 main steps you need to go through to be fully set up:
     1. For now, send GitHub and Trello usernames and Gmail address to mladen@the-shop.hr - application is not ready yet
   5. Watch this repository to get notified of any changes to it. [Instructions are here.](https://help.github.com/articles/watching-repositories/)
   
-After you send information to email, you'll get invitation for company Slack organization.
+After you send required information to email listed above, you'll get invitation for company Slack organization.
 
 ## Moving further
 Please go back to main [README.md](README.md) and read through rest of it.
