@@ -7,3 +7,4 @@ what you're looking for here, or if you saw an issue with it, please go [here](w
   - [XP explained](xp-explained.md)
   - [Roles explained](roles-explained.md)
   - [Processes](processes.md)
+  - [Payouts](payouts.md)
