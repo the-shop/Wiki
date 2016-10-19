@@ -2,12 +2,6 @@
 Welcome to The Shop!
 
 This short document explains basics about what you need to do in order to get fully started.
-  
-## What is XP
-XP stands for experience points. Everyone working with The Shop in any form starts with some XP value based on how they 
-started with us. 
-
-There's more on XP and how it works in [XP explained](xp-explained.md) section of Wiki.
 
 ## First steps
 First thing you'll need to start is to access all of the company related data and to gain access to communication channels.
