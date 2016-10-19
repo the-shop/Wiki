@@ -14,11 +14,9 @@ First thing you'll need to start is to access all of the company related data an
 
 There are 5 main steps you need to go through to be fully set up:
   1. Install [Slack application](https://slack.com/) (ideally to both your work machine and mobile device) 
-  2. Create [GitHub account](https://github.com/)
-  3. Create [Trello account](https://trello.com/)
-  4. Create [Gmail account](https://gmail.com)
-  4. ~~Fill in your account data with [The Shop account page](https://app.the-shop.io/account/edit)~~
-    1. For now, send GitHub and Trello usernames and Gmail address to mladen@the-shop.hr - application is not ready yet
+  2. Create [GitHub account](https://github.com/), [Trello account](https://trello.com/) and [Gmail account](https://gmail.com)
+  3. Register on internal application [http://the-shop.io:3000/](https://app.the-shop.io:3000) with gmail account
+  4. Fill in your profile information on the application
   5. Watch this repository to get notified of any changes to it. [Instructions are here.](https://help.github.com/articles/watching-repositories/)
   
 After you send required information to email listed above, you'll get invitation for company Slack organization.
