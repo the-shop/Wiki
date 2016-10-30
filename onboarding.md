@@ -13,7 +13,7 @@ There are 5 main steps you need to go through to be fully set up:
   4. Fill in your profile information on the application
   5. Watch this repository to get notified of any changes to it. [Instructions are here.](https://help.github.com/articles/watching-repositories/)
   
-After you send required information to email listed above, you'll get invitation for company Slack organization.
+After you follow the instructions above, you'll get invitation for company Slack organization. Please join Slack and ping @mladen there for further instructions.
 
 ## Moving further
 Please go back to main [README.md](README.md) and read through rest of it.
