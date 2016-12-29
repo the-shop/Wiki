@@ -1,5 +1,5 @@
 #Payouts
-For everyone that's working on paid projects / tickets the following chart defines awards and penalties in regards of timeliness. For those that are in apprentice role or take on unpaid work just XP changes apply.
+For everyone that's working on paid projects / tickets the following chart defines awards and penalties in regards of timeliness. For those that are in student role or take on unpaid work just XP changes apply.
 
 | Deadline hit by      | XP change | Payout adjustment |
 |----------------------|-----------|-------------------|
