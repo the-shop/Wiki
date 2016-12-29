@@ -36,11 +36,16 @@ Role expectations:
 
 1. Your code style will have to match language standards
 2. You will go through more strict code reviews - poor implementations will be rejected even if fully functional
-1. All expectations from previous role apply
+3. All expectations from previous role apply
 
 ## Standard role
-Role that will allow you to have Student and Aprentice roles below you as a responsiblity but it also comes with more 
-benefits within The Shop.
+First mentorship role within The Shop. This means that, since you're no longer a Junior developer, you know how to write great quality code in timely manner.
+
+Role expectations:
+
+1. You will have Student and Aprentice roles below you as a responsiblity to both mentor and review their code
+2. You will have to be able to organize your work for minimal management because of #1
+3. All expectations from previous role apply
 
 ## Senior role
 As someone in senior role, your responsibilities are management of all roles already listed and leading projects development
