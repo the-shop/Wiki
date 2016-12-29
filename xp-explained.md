@@ -26,22 +26,23 @@ There's a certain set of rules around XP that changes with time. Current rules a
   - Lowest XP that can be assigned initially is 50 and that is given to everyone who registers with us to learn. 
   - Code quality affects your XP:
     - Student and Apprentice roles:
-      - Score 8-10 gives you 3 points
-      - Score 5-7 keeps you at same points and indicates you should improve code quality
+      - Score 10 gives you 2 points
+      - Score 8-9 gives you 1 point
+      - Score 6-7 keeps you at same points and indicates you should improve code quality
       - Score 1-5/10 gives you -3 points
     - All other roles:
-      - Score 8-10 gives you 4 points
-      - Score 6-7 keeps you at same points and indicates you should improve code quality
-      - Score 1-6/10 gives you -4 points
+      - Score 9-10 gives you 2 points
+      - Score 6-8 keeps you at same points and indicates you should improve code quality
+      - Score 1-5/10 gives you -3 points
   - Deadline awareness
-    - Student and Apprentice roles:
-      - Hitting deadline within 2/3 of estimated time gives you 4 points
+    - Student role:
+      - Hitting deadline within 2/3 of estimated time gives you 3 points
       - Hitting deadline within 2/3 - 3/3 frame of estimated time gives you 1 point
-      - Missing deadline gives you -5 points
+      - Missing deadline gives you -3 points
     - All other roles:
-      - Hitting deadline within 2/3 of estimated time gives you 5 points
-      - Hitting deadline within 2/3 - 3/3 of estimated time gives you 1 point
-      - Missing deadline gives you -8 points
+      - Hitting deadline within 2/3 of estimated time gives you 2 points
+      - Hitting deadline within 2/3 - 3/3 of keeps you on same points
+      - Missing deadline gives you -4 points
 
 ## Moving further
 Please go back to main [README.md](README.md) and read through rest of it.
