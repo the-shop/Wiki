@@ -58,9 +58,12 @@ Role expectations:
 3. All expectations from previous role apply
 
 ## Leader role
-This role is still yet to be claimed. When a person gets to this role, it's assumed that you're strong and independent person that helps everyone within the company any way you can. From mentorship and advice perspecives. This role will also unlock the "percentage" type of salary - this means that after all other expenses 90% of the money that you've gained goes towards your salary. Remaining 10% will go towards re-investments of the company...
+When a person gets to this role, it's assumed that you're strong and independent person that helps everyone within the company any way you can. From mentorship and advice perspecives. This role will also unlock the "percentage" type of salary - this means that after all expenses you need to cover (drectly or indirectly) 90% of the money that you've earned goes towards your salary. Remaining 10% will go towards re-investments within the company.
 
-("other expenses" listed above are including but not limited to: equipment, paid trips,...)
+Notes:
+
+1. "expenses you need to cover" listed above are including but not limited to: equipment, paid trips,...
+2. The ultimate position within The Shop where while you do have extreme amound of responsiblity you get adequatly compensated for it
 
 ## Moving further
 Please go back to main [README.md](README.md) and read through rest of it.
