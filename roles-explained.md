@@ -43,13 +43,19 @@ First mentorship role within The Shop. This means that, since you're no longer a
 
 Role expectations:
 
-1. You will have Student and Aprentice roles below you as a responsiblity to both mentor and review their code
+1. You will have roles below you as a responsiblity to both mentor and review their code
 2. You will have to be able to organize your work for minimal management because of #1
 3. All expectations from previous role apply
 
 ## Senior role
 As someone in senior role, your responsibilities are management of all roles already listed and leading projects development
 (from both code architecture and management perspectives).
+
+Role expectations:
+
+1. Highly independend developer with vast experience in multiple technologies
+2. You implement write whole project by yourself from all development aspects and handle the infrastructure
+3. All expectations from previous role apply
 
 ## Leader role
 This role is still yet to be claimed. When a person gets to this role, it's assumed that you're strong and independent person that helps everyone within the company any way you can. From mentorship and advice perspecives. This role will also unlock the "percentage" type of salary - this means that after all other expenses 90% of the money that you've gained goes towards your salary. Remaining 10% will go towards re-investments of the company...
