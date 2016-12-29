@@ -21,11 +21,22 @@ Notes:
 2. Each newly registered user starts with 50 XP.
 
 ## Apprentice role
-Apprentice role is slightly more experienced version of student role but it also unlocks availability of small paid projects 
-that will be provided for claiming them or can be hired part time if working on site (based on current openings). Through these projects you'll be working on some of the internal tools amongst other things.
+Apprentice role is slightly more experienced version of student role and is intended for pre-junior level of expertese but it is also first hired position.
+
+There are some expecations in place for this role:
+
+1. Your performance will be tracked and compared against the minimum requirements for the role
+2. You'll have mentor and it's expected of you to ping them on every blocker you cannot solve by yourself in reasonable time or don't (fully) understand
+3. You are required to communicate with your mentor clearly and in timely manner every day you're working
 
 ## Junior role
-This is the second level of payed position within The Shop. You'll be working under direct mentorship.
+This is the second level of payed position within The Shop and as such comes with a bit more requirements. At this stage you will be working various projects, but mainly internal. 
+
+Role expectations:
+
+1. Your code style will have to match language standards
+2. You will go through more strict code reviews - poor implementations will be rejected even if fully functional
+1. All expectations from previous role apply
 
 ## Standard role
 Role that will allow you to have Student and Aprentice roles below you as a responsiblity but it also comes with more 
