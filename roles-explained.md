@@ -12,6 +12,8 @@ There are 6 roles within The Shop:
 
 Each of the roles brings certain expectations with it so please read through.
 
+Note: plan is to have non-full time hires in near future that would be payed based on work done.
+
 ## Student role
 Student role is our mechanism for teaching people how to work and how to improve their knowledge so that they get hired. Everyone can follow the [onboarding](onboarding.md) instructions and see how they go. Since this is student role there is just one basic rule to obey - if you set yourself as available on platform and start working on a task you should handle it and communicate progress (or lack of it) to project owner in time. 
 
